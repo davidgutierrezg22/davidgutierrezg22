@@ -29,7 +29,9 @@ I'm a Systems Engineering student at **Universidad del Norte**, interested in bu
 
 ## Contact
 
-📧 **[davidagutierrezg22@gmail.com](mailto:davidagutierrezg22@gmail.com)**
+- 📧 [davidagutierrezg22@gmail.com](mailto:davidagutierrezg22@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-alejandro-gutierrez-gutierrez-454095440/)
+- 📱 **+57 301 347 7353** (móvil)
 
 ---
 Thanks for stopping by!
