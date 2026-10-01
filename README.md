@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @davidgutierrezg22
-- 👀 I’m interested in programming and video game development.
-- 🌱 I’m currently studying systems engineering at the Universidad del Norte, learning more about Java and Phythom.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I really like playing video games and I dedicate many hours to it.
+# Hi, I'm David 👋
 
-<!---
-davidgutierrezg22/davidgutierrezg22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Systems Engineering student at **Universidad del Norte**, interested in building software and exploring how games are made.
+
+## About me
+
+- 🎓 Studying Systems Engineering
+- 💻 Currently learning **Java** and **Python**
+- 🎮 Interested in **game development** and creating useful software
+- 🕹️ Outside of coding, I enjoy playing video games
+
+## Technologies I'm learning
+
+![Java](https://img.shields.io/badge/Java-learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+Thanks for stopping by!
